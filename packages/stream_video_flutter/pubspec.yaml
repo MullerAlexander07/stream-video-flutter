@@ -23,6 +23,7 @@ dependencies:
   stream_video: ^0.7.1
   stream_webrtc_flutter: ^0.12.5+2
   visibility_detector: ^0.4.0+2
+  floating_logger: ^0.0.5
 
 dev_dependencies:
   flutter_test:
